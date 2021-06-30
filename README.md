@@ -1,3 +1,3 @@
 # simple_sky
 
-A new Flutter project.
+used an api that no longer exists
